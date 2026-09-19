@@ -1,0 +1,15 @@
+{
+  "brand": "EducationalLabsHDT",
+  "updated_at": "2026-09-19T15:16:00Z",
+  "products": [
+    {
+      "id": "elhdt-stem-lab-casa-001",
+      "sku": "STEM-LAB-CASA-30",
+      "name": "STEM Lab en Casa: 30 Experimentos con Cosas de la Cocina",
+      "type": "digital_bundle",
+      "price_usd": 19,
+      "family_friendly": true,
+      "do_not_repeat": true
+    }
+  ]
+}
